@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi internauta 👋
 
-<!--
-**harvic3/harvic3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in:
 
-Here are some ideas to get you started:
+- 🌎 Development of social impact projects
+- 🌳 Development of sustainability projects and green technologies.
+- ⚡ Development and research of renewable energy projects.
+- 🏡 Development of home automation projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want, you can write me to:
+- 📫 <a href="mailto:harvic3@ingenieros.com" target="_blank" >Write to him</a>
+
+> Here are some of the projects I can show you 👽
+<a href="https://github.com/harvic3/directory" target="_blank" >Go to there</a>
